@@ -1,53 +1,62 @@
 <?php
 // Text
-$_['text_search']       = 'Búsqueda';
-$_['text_brand']        = 'Marca';
-$_['text_manufacturer'] = 'Marca:';
-$_['text_model']        = 'Código Producto:';
-$_['text_reward']       = 'Puntos de Premio:';
-$_['text_points']       = 'Precio en Puntos de Premio:';
-$_['text_stock']        = 'Disponibilidad:';
-$_['text_sku']          = 'SKU:';
-$_['text_instock']      = 'En Existencia';
-$_['text_price']        = 'Precio:';
-$_['text_tax']          = 'Sin Impuesto:';
-$_['text_discount']     = '%s o más %s';
-$_['text_option']       = 'Opciones Disponibles';
-$_['text_qty']          = 'Cantidad:';
-$_['text_minimum']      = 'Este Producto tiene una cantidad mínima de %s';
-$_['text_or']           = '- O -';
-$_['text_reviews']      = '%s comentarios'; 
-$_['text_write']        = 'Escribir Comentario';
-$_['text_no_reviews']   = 'No hay Comentarios para este Producto.';
-$_['text_note']         = '<span style="color: #FF0000;">Nota:</span> HTML no sera traducido!';
-$_['text_share']        = 'Compartir';
-$_['text_success']      = 'Gracias por su Comentario. Será enviado al Webmaster para su Aprobación.';
-$_['text_upload']       = 'Su Archivo a sido satisfactoriamente subido!';
-$_['text_wait']         = 'Por Favor Espere!';
-$_['text_tags']         = 'Etiquetas:';
-$_['text_error']        = 'Producto No Encontrado!';
-$_['text_go_back']      = 'Volver';
+$_['text_search']       = 'Search';
+$_['text_brand']        = 'Brand';
+$_['text_manufacturer'] = 'Brand:';
+$_['text_model']        = 'Product Code:';
+$_['text_reward']       = 'Reward Points:'; 
+$_['text_points']       = 'Price in reward points:';
+$_['text_stock']        = 'Availability:';
+$_['text_instock']      = 'In Stock';
+$_['text_price']        = 'Price:'; 
+$_['text_tax']          = 'Ex Tax:'; 
+$_['text_discount']     = '%s or more %s';
+$_['text_option']       = 'Available Options';
+$_['text_qty']          = 'Qty:';
+$_['text_minimum']      = 'This product has a minimum quantity of %s';
+$_['text_or']           = '- OR -';
+$_['text_reviews']      = '%s reviews'; 
+$_['text_write']        = 'Write a review';
+$_['text_no_reviews']   = 'There are no reviews for this product.';
+$_['text_on']           = ' on ';
+$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
+$_['text_share']        = 'Share';
+$_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
+$_['text_upload']       = 'Your file was successfully uploaded!';
+$_['text_wait']         = 'Please Wait!';
+$_['text_tags']         = 'Tags:';
+$_['text_error']        = 'Product not found!';
+$_['text_payment_profile'] = 'Payment Profiles';
+
+$_['text_trial_description'] = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
+$_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
+$_['text_day'] = 'day';
+$_['text_week'] = 'week';
+$_['text_semi_month'] = 'half-month';
+$_['text_month'] = 'month';
+$_['text_year'] = 'year';
 
 // Entry
-$_['entry_name']        = 'Su Nombre:';
-$_['entry_review']      = 'Su Comentario:';
-$_['entry_rating']      = 'Clasificación:';
-$_['entry_good']        = 'Bueno';
-$_['entry_bad']         = 'Malo';
-$_['entry_captcha']     = 'Introduzca el Código de la Caja de Abajo:';
+$_['entry_name']        = 'Your Name:';
+$_['entry_review']      = 'Your Review:';
+$_['entry_rating']      = 'Rating:';
+$_['entry_good']        = 'Good';
+$_['entry_bad']         = 'Bad';
+$_['entry_captcha']     = 'Enter the code in the box below:';
 
 // Tabs
-$_['tab_description']   = 'Descripción';
-$_['tab_attribute']     = 'Especificaciones';
-$_['tab_review']        = 'Comentarios (%s)';
-$_['tab_related']       = 'Productos Relacionados';
+$_['tab_description']   = 'Description';
+$_['tab_attribute']     = 'Specification';
+$_['tab_review']        = 'Reviews (%s)';
+$_['tab_related']       = 'Related Products'; 
 
 // Error
-$_['error_name']        = 'Advertencia: Nombre debe estar entre 3 y 25 caracteres!';
-$_['error_text']        = 'Advertencia: Comentario debe estar entre 25 y 1000 caracteres!';
-$_['error_rating']      = 'Advertencia: Por Favor seleccione una clasificación del Comentario!';
-$_['error_captcha']     = 'Advertencia: Código de Verificación no es Igual a la Imagen!';
-$_['error_upload']      = 'Subir Archivo es Requerido!';
-$_['error_filename']    = 'Nombre de Archivo debe estar entre 3 y 128 caracteres!';
-$_['error_filetype']    = 'Tipo de Archivo No Válido!';
+$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
+$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
+$_['error_rating']      = 'Warning: Please select a review rating!';
+$_['error_captcha']     = 'Warning: Verification code does not match the image!';
+$_['error_upload']      = 'Upload required!';
+$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
+$_['error_filetype']    = 'Invalid file type!';
 ?>

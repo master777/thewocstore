@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Nueva Clave';
-$_['text_greeting'] = 'Una Nueva Clave ha sido solicitada por %s.';
-$_['text_password'] = 'Su nueva clave es:';
+$_['text_subject']  = '%s - New Password';
+$_['text_greeting'] = 'A new password was requested from %s.';
+$_['text_password'] = 'Your new password to is:';
 ?>

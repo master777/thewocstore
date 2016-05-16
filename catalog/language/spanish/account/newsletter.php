@@ -1,12 +1,12 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Subscripción al Boletín Electrónico';
+$_['heading_title']    = 'Newsletter Subscription';
 
 // Text
-$_['text_account']     = 'Cuenta';
-$_['text_newsletter']  = 'Boletín Electrónico';
-$_['text_success']     = 'Correcto: Su Subscripción al Boletín ha sido Satisfactoriamente Actualizada!';
+$_['text_account']     = 'Account';
+$_['text_newsletter']  = 'Newsletter';
+$_['text_success']     = 'Success: Your newsletter subscription has been successfully updated!';
 
 // Entry
-$_['entry_newsletter'] = 'Subscribir:';
+$_['entry_newsletter'] = 'Subscribe:';
 ?>

@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']  = 'Envío basado en el Peso';
-$_['text_weight'] = 'Peso:'; 
+$_['text_title']  = 'Weight Based Shipping';
+$_['text_weight'] = 'Weight:'; 
 ?>

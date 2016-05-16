@@ -1,15 +1,11 @@
-﻿<?php
+<?php
 // Text
-$_['text_home']     = 'Inicio';
-$_['text_wishlist'] = 'Lista Deseos (%s)';
-$_['text_cart']     = 'Carro de Compras';
-$_['text_items']    = '%s item(s) - %s';
-$_['text_search']   = 'Búsqueda';
-$_['text_welcome']  = 'Bienvenido Visitante <a href="%s">Conectarse</a> o <a href="%s">Crear Cuenta</a>.';
-$_['text_welcome2'] = 'Bienvenido Visitante usted puede <a href="%s">Conectarse</a> o <a href="%s">Crear Cuenta</a>.';
-$_['text_logged']   = 'Esta Conectado como <a href="%s">%s</a> <b>(</b> <a href="%s">Desconectar</a> <b>)</b>';
-$_['text_account']  = 'Mi Cuenta';
-$_['text_checkout'] = 'Pagar';
-$_['text_language'] = 'Idiomas';
-$_['text_currency'] = 'Monedas';
+$_['text_home']           = 'Home';
+$_['text_wishlist']       = 'Wish List (%s)';
+$_['text_shopping_cart']  = 'Shopping Cart';
+$_['text_search']         = 'Search';
+$_['text_welcome']        = 'Welcome visitor you can <a href="%s">login</a> or <a href="%s">create an account</a>.';
+$_['text_logged']         = 'You are logged in as <a href="%s">%s</a> <b>(</b> <a href="%s">Logout</a> <b>)</b>';
+$_['text_account']        = 'My Account';
+$_['text_checkout']       = 'Checkout';
 ?>

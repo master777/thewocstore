@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_title']           = 'Tarjeta Crédito o Débito (Procesada por PayPal)';
-$_['text_credit_card']     = 'Detalles Tarjeta de Crédito';
-$_['text_start_date']      = '(Si disponible)';
-$_['text_issue']           = '(solamente para Tarjetas Maestro y Solo)';
-$_['text_wait']            = 'Por Favor Espere!';
+$_['text_title']           = 'Credit or Debit Card (Processed securely by PayPal)';
+$_['text_credit_card']     = 'Credit Card Details';
+$_['text_start_date']      = '(if available)';
+$_['text_issue']           = '(for Maestro and Solo cards only)';
+$_['text_wait']            = 'Please wait!';
 
 // Entry
-$_['entry_cc_type']        = 'Tipo Tarjeta:';
-$_['entry_cc_number']      = 'Número Tarjeta:';
-$_['entry_cc_start_date']  = 'Fecha Válida de entrega de Tarjeta:';
-$_['entry_cc_expire_date'] = 'Fecha de Vencimiento de Tarjeta:';
-$_['entry_cc_cvv2']        = 'Código Seguridad de Tarjeta (CVV2):';
+$_['entry_cc_type']        = 'Card Type:';
+$_['entry_cc_number']      = 'Card Number:';
+$_['entry_cc_start_date']  = 'Card Valid From Date:';
+$_['entry_cc_expire_date'] = 'Card Expiry Date:';
+$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
 $_['entry_cc_issue']       = 'Card Issue Number:';
 ?>

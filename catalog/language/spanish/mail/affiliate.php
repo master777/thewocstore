@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Programa de Afiliado';
-$_['text_welcome']  = 'Gracias por Unirse al Programa de Afiliado de %s!';
-$_['text_approval'] = 'Su Cuenta debe ser Aprobada antes de Conectarse. Una vez Aprobada puede Conectarse usando su Dirección E-Mail y Clave para visitar nuestro Sitio Web o en la siguiente Dirección Web:';
-$_['text_services'] = 'Una vez Conectado, Usted tiene la disponibilidad para Generar Códigos de Seguimiento, seguimiento de Pagos por Comisión y editar Información de su Cuenta.';
-$_['text_thanks']   = 'Gracias,';
+$_['text_subject']  = '%s - Affiliate Program';
+$_['text_welcome']  = 'Thank you for joining the %s Affiliate Program!';
+$_['text_approval'] = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
+$_['text_services'] = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
+$_['text_thanks']   = 'Thanks,';
 ?>

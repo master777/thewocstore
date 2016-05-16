@@ -1,7 +1,7 @@
 <?php
-// Text 
-$_['text_title'] 	  = 'PayPal';
-$_['text_reason']   = 'RAZON';
-$_['text_testmode']	= 'ATENCIÖN!!! El tipo de Pago se encuentra en MODO SANDBOX (prueba). Su Cuenta no será cargada.';
-$_['text_total']	  = 'Envío, Manipulación, Descuentos e Impuestos';
+// Text
+$_['text_title']    = 'PayPal';
+$_['text_reason'] 	= 'REASON';
+$_['text_testmode']	= 'Warning: The payment gateway is in \'Sandbox Mode\'. Your account will not be charged.';
+$_['text_total']	= 'Shipping, Handling, Discounts & Taxes';
 ?>

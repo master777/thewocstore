@@ -1,17 +1,17 @@
 <?php
-// Heading
-$_['heading_title']  = 'Cambiar Clave';
+// Heading 
+$_['heading_title']  = 'Change Password';
 
 // Text
-$_['text_account']   = 'Cuenta';
-$_['text_password']  = 'Su Clave';
-$_['text_success']   = 'Correcto: Su Clave ha sido Actualizada.';
+$_['text_account']   = 'Account';
+$_['text_password']  = 'Your Password';
+$_['text_success']   = 'Success: Your password has been successfully updated.';
 
 // Entry
-$_['entry_password'] = 'Clave:';
-$_['entry_confirm']  = 'Confirmar Clave:';
+$_['entry_password'] = 'Password:';
+$_['entry_confirm']  = 'Password Confirm:';
 
 // Error
-$_['error_password'] = 'Clave debe estar entre 3 y 20 caracteres!';
-$_['error_confirm']  = 'Confirmación de la Clave NO Coincide!';
+$_['error_password'] = 'Password must be between 4 and 20 characters!';
+$_['error_confirm']  = 'Password confirmation does not match password!';
 ?>

@@ -1,46 +1,52 @@
 <?php
 // Heading 
-$_['heading_title']        = 'Registro de Cuenta';
+$_['heading_title']        = 'Register Account';
 
 // Text
-$_['text_account']         = 'Cuenta';
-$_['text_register']        = 'Registrar';
-$_['text_account_already'] = 'Si ya tiene una Cuenta con nosotros, por favor Conéctese en <a href="%s">la página de Conexión</a>.';
-$_['text_your_details']    = 'Sus Detalles Personales';
-$_['text_your_address']    = 'Su Dirección';
-$_['text_newsletter']      = 'Boletín Electrónico';
-$_['text_your_password']   = 'Su Clave';
-$_['text_agree']           = 'He <b>LEIDO</b> y estoy <b>DE ACUERDO</b> con la <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_account']         = 'Account';
+$_['text_register']        = 'Register';
+$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
+$_['text_your_details']    = 'Your Personal Details';
+$_['text_your_address']    = 'Your Address';
+$_['text_newsletter']      = 'Newsletter';
+$_['text_your_password']   = 'Your Password';
+$_['text_agree']           = 'I have read and agree to the <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
-$_['entry_firstname']      = 'Nombre:';
-$_['entry_lastname']       = 'Apellidos:';
+$_['entry_firstname']      = 'First Name:';
+$_['entry_lastname']       = 'Last Name:';
 $_['entry_email']          = 'E-Mail:';
-$_['entry_telephone']      = 'Teléfono:';
+$_['entry_telephone']      = 'Telephone:';
 $_['entry_fax']            = 'Fax:';
-$_['entry_company']        = 'Compañía:';
-$_['entry_address_1']      = 'Dirección 1:';
-$_['entry_address_2']      = 'Dirección 2:';
-$_['entry_postcode']       = 'Código Postal:';
-$_['entry_city']           = 'Ciudad:';
-$_['entry_country']        = 'País:';
-$_['entry_zone']           = 'Ciudad / Provincia:';
-$_['entry_newsletter']     = 'Subscribir:';
-$_['entry_password']       = 'Clave:';
-$_['entry_confirm']        = 'Confirme su Clave:';
+$_['entry_company']        = 'Company:';
+$_['entry_customer_group'] = 'Business Type:';
+$_['entry_company_id']     = 'Company ID:';
+$_['entry_tax_id']         = 'Tax ID:';
+$_['entry_address_1']      = 'Address 1:';
+$_['entry_address_2']      = 'Address 2:';
+$_['entry_postcode']       = 'Post Code:';
+$_['entry_city']           = 'City:';
+$_['entry_country']        = 'Country:';
+$_['entry_zone']           = 'Region / State:';
+$_['entry_newsletter']     = 'Subscribe:';
+$_['entry_password']       = 'Password:';
+$_['entry_confirm']        = 'Password Confirm:';
 
 // Error
-$_['error_exists']         = 'Advertencia: Dirección de E-Mail ya está Registrada!';
-$_['error_firstname']      = 'Nombre debe estar entre 1 y 32 caracteres!';
-$_['error_lastname']       = 'Apellidos debe estar entre 1 y 32 caracteres!';
-$_['error_email']          = 'Dirección de E-Mail No es Válida!';
-$_['error_telephone']      = 'Teléfono debe estar entre 3 y 32 caracteres!';
-$_['error_password']       = 'Clave debe estar entre 3 y 20 caracteres!';
-$_['error_confirm']        = 'Confirmación de la Clave no Coincide!';
-$_['error_address_1']      = 'Dirección 1 debe estar entre 3 y 128 caracteres!';
-$_['error_city']           = 'Ciudad debe estar entre 3 y 128 caracteres!';
-$_['error_postcode']       = 'Código Postal debe estar entre 2 y 10 caracteres!';
-$_['error_country']        = 'Por Favor Seleccione un País!';
-$_['error_zone']           = 'Por Favor Seleccione una Ciudad / Provincia!';
-$_['error_agree']          = 'Advertencia: Usted debe de estar de Acuerdo con %s y marcar la Casilla!';
+$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
+$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
+$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
+$_['error_email']          = 'E-Mail Address does not appear to be valid!';
+$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
+$_['error_password']       = 'Password must be between 4 and 20 characters!';
+$_['error_confirm']        = 'Password confirmation does not match password!';
+$_['error_company_id']     = 'Company ID required!';
+$_['error_tax_id']         = 'Tax ID required!';
+$_['error_vat']            = 'VAT number is invalid!';
+$_['error_address_1']      = 'Address 1 must be between 3 and 128 characters!';
+$_['error_city']           = 'City must be between 2 and 128 characters!';
+$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
+$_['error_country']        = 'Please select a country!';
+$_['error_zone']           = 'Please select a region / state!';
+$_['error_agree']          = 'Warning: You must agree to the %s!';
 ?>

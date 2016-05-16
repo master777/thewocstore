@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']        = 'Mi Cuenta de Afiliado';
+$_['heading_title']        = 'My Affiliate Account';
 
 // Text
-$_['text_account']         = 'Cuenta';
-$_['text_my_account']      = 'Mi Cuenta de Afiliado';
-$_['text_my_tracking']     = 'Mi información de seguimiento';
-$_['text_my_transactions'] = 'Mis Transacciones';
-$_['text_edit']            = 'Editar información de su cuenta';
-$_['text_password']        = 'Cambie su Clave';
-$_['text_payment']         = 'Cambie sus preferencias de Pago';
-$_['text_tracking']        = 'Código de seguimiento personalizado del Afiliado';
-$_['text_transaction']     = 'Ver su historial de Transacciones';
+$_['text_account']         = 'Account';
+$_['text_my_account']      = 'My Affiliate Account';
+$_['text_my_tracking']     = 'My Tracking Information';
+$_['text_my_transactions'] = 'My Transactions';
+$_['text_edit']            = 'Edit your account information';
+$_['text_password']        = 'Change your password';
+$_['text_payment']         = 'Change your payment preferences';
+$_['text_tracking']        = 'Custom Affiliate Tracking Code';
+$_['text_transaction']     = 'View your transaction history';
 ?>

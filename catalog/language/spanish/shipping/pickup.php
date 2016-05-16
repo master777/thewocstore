@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Recoger';
-$_['text_description'] = 'Recoger en la Empresa';
+$_['text_title']       = 'Pickup';
+$_['text_description'] = 'Pickup From Store';
 ?>

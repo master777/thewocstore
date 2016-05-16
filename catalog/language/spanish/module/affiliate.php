@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Afiliado';
+$_['heading_title']    = 'Affiliate';
 
 // Text
-$_['text_register']    = 'Registro';
-$_['text_login']       = 'Conectar';
-$_['text_logout']      = 'Desconectar';
-$_['text_forgotten']   = 'Clave Olvidada';
-$_['text_account']     = 'Mi Cuenta';
-$_['text_edit']        = 'Editar Cuenta';
-$_['text_password']    = 'Clave';
-$_['text_payment']     = 'Opciones Pago';
-$_['text_tracking']    = 'Seguimiento Afiliado';
-$_['text_transaction'] = 'Transacciones';
+$_['text_register']    = 'Register';
+$_['text_login']       = 'Login';
+$_['text_logout']      = 'Logout';
+$_['text_forgotten']   = 'Forgotten Password';
+$_['text_account']     = 'My Account';
+$_['text_edit']        = 'Edit Account';
+$_['text_password']    = 'Password';
+$_['text_payment']     = 'Payment Options';
+$_['text_tracking']    = 'Affiliate Tracking';
+$_['text_transaction'] = 'Transactions';
 ?>

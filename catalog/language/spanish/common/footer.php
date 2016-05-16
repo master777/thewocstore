@@ -1,20 +1,18 @@
 <?php
 // Text
-$_['text_friend']       = 'Cuéntele a un Amigo';
-$_['text_information']  = 'Información';
-$_['text_service']      = 'Servicio al Cliente';
+$_['text_information']  = 'Information';
+$_['text_service']      = 'Customer Service';
 $_['text_extra']        = 'Extras';
-$_['text_account']      = 'Cuenta';
-$_['text_contact']      = 'Contáctenos';
-$_['text_return']       = 'Devoluciones';
-$_['text_sitemap']      = 'Mapa del Sitio';
-$_['text_manufacturer'] = 'Marcas';
-$_['text_voucher']      = 'Certificados de Regalos';
-$_['text_affiliate']    = 'Afiliados';
-$_['text_special']      = 'Especiales';
-$_['text_account']      = 'Mi Cuenta';
-$_['text_order']        = 'Historial de Órdenes';
-$_['text_wishlist']     = 'Lista de Deseos';
-$_['text_newsletter']   = 'Boletín de Noticias';
-$_['text_powered']      = 'Diseñado por <a href="http://www.gp-inter.com/ocdo">Tienda X</a><br /> %s &copy; %s';
+$_['text_contact']      = 'Contact Us';
+$_['text_return']       = 'Returns';
+$_['text_sitemap']      = 'Site Map';
+$_['text_manufacturer'] = 'Brands';
+$_['text_voucher']      = 'Gift Vouchers';
+$_['text_affiliate']    = 'Affiliates';
+$_['text_special']      = 'Specials';
+$_['text_account']      = 'My Account';
+$_['text_order']        = 'Order History';
+$_['text_wishlist']     = 'Wish List';
+$_['text_newsletter']   = 'Newsletter';
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
 ?>

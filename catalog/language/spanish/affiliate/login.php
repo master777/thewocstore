@@ -1,21 +1,22 @@
 <?php
 // Heading 
-$_['heading_title']                 = 'Programa de Afiliados';
+$_['heading_title']                 = 'Affiliate Program';
 
 // Text
-$_['text_account']                  = 'Cuenta';
-$_['text_login']                    = 'Conectar';
-$_['text_description']              = '<p>%s y su programa de afiliación es gratuito y permite a los miembros a obtener ingresos mediante la colocación de un enlace o enlaces en su sitio web que anuncia al %s o productos específicos en ella.  Cualquier venta realizada a clientes que han hecho click en los enlaces ganará la comisión de afiliación. La tasa de comisión estándar es actualmente del %s.</p><p>Para obtener más información, visite nuestra página de preguntas frecuentes o consulte nuestros términos y condiciones de afiliados.</p>';
-$_['text_new_affiliate']            = 'Nuevo Afiliado';
-$_['text_register_account']         = '<p>Actualmente no estoy afiliado.</p><p>Haga click en Continuar para crear una nueva cuenta de afiliado. Tenga en cuenta que esto no lo conecta de ninguna manera con su cuenta de Cliente.</p>';
-$_['text_returning_affiliate']      = 'Clave del Afiliado';
-$_['text_i_am_returning_affiliate'] = 'Ya soy un Afiliado.';
-$_['text_forgotten']                = 'Clave Olvidada';
+$_['text_account']                  = 'Account';
+$_['text_login']                    = 'Login';
+$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
+$_['text_new_affiliate']            = 'New Affiliate';
+$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
+$_['text_returning_affiliate']      = 'Affiliate Login';
+$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
+$_['text_forgotten']                = 'Forgotten Password';
 
 // Entry
-$_['entry_email']                   = 'E-Mail Afiliado:';
-$_['entry_password']                = 'Clave:';
+$_['entry_email']                   = 'Affiliate E-Mail:';
+$_['entry_password']                = 'Password:';
 
 // Error
-$_['error_login']                   = 'Advertencia: E-Mail no Existe y/o Clave NO es Correcta.';
+$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
+$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
 ?>

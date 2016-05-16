@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Envío Gratuíto';
-$_['text_description'] = 'Envío Gratuito';
+$_['text_title']       = 'Free Shipping';
+$_['text_description'] = 'Free Shipping';
 ?>
